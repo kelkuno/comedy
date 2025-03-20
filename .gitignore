@@ -1,0 +1,28 @@
+# Ignore WordPress core files
+wp-admin/
+wp-includes/
+
+# Ignore uploaded media files
+wp-content/uploads/
+
+# Ignore default themes and plugins (unless customizing them)
+
+
+# Ignore everything except your custom theme & plugins
+!wp-content/themes/your-custom-theme/
+!wp-content/plugins/your-custom-plugin/
+
+# Ignore sensitive files
+wp-config.php
+.htaccess
+
+# Ignore MAMP system files
+.mamp/
+.mampdb/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+node_modules/
