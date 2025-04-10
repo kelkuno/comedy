@@ -1,5 +1,3 @@
-This is our amazing theme x2.
-
 <?php get_header(); ?>
 
 <!-- <?php
